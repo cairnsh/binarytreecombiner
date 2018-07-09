@@ -2,7 +2,7 @@ import numpy as np
 import random, time, pickle, math
 import os, sys, glob
 
-DIRECTORY = "/home/gibson/sdb2/cola/combiner/"
+DIRECTORY = "outputs"
 N = 10000000
 ROUNDS = 8000
 bars = " ▁▂▃▄▅▆▇█"
